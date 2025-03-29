@@ -55,16 +55,6 @@ This project applies deep learning techniques to predict hourly PM2.5 concentrat
 - Matplotlib, Seaborn
 - Jupyter Notebook / Google Colab
 
-## 📁 Folder Structure
-```
-Smart-PM25-Prediction/
-├── data/
-│   └── PRSA_Data_Aotizhongxin_20130301-20170228.csv
-├── notebook/
-│   └── Smart_Environment_Monitoring_AI_Based_PM2_5_Forecasting.ipynb
-├── README.md
-└── requirements.txt
-```
 
 ## ✅ How to Run
 1. Clone the repo
